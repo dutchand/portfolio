@@ -1,4 +1,0 @@
-portfolio
-=========
-
-Information Technology Engineer
